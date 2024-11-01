@@ -1,0 +1,28 @@
+.form-control{
+	max-width:70%!important;
+}
+#enblbutton{
+	margin-left:100px!important;
+	margin-top:0px!important;
+	height:20px!important;
+	width:20px!important;
+}
+#enblbutton:checked::before{
+	width: 1.5rem!important;
+}
+input[type=text]{
+max-width:65%!important;
+}
+#sel{
+max-width:65%!important;
+}
+#temp{
+max-width:65%!important;
+}
+.nav-tabs .nav-link{
+color:#0d0d93!important;
+}
+.dataTables_wrapper .dataTables_length select{
+padding-right:15px!important;
+
+}
